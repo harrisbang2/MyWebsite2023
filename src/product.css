@@ -33,3 +33,6 @@ margin-bottom: 15px;
 .product_price{
     margin-top: 5px;
 }
+.product_rating{
+    display: flex;
+}
