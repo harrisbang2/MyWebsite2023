@@ -16,5 +16,5 @@
 }
 .checkout_right {
     width: 50%;
-    display: flex;
+    display: block;
 }
